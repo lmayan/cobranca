@@ -6,10 +6,11 @@ Inserindo Projeto no GitHub. (Add Project)
 	Tecnologias utilizadas no desenvolvimento do projeto:
  - Spring Boot
  - Thymeleaf
- - Bootstrap (+DatePicker)
+ - Bootstrap (+DatePicker +Responsivity)
  - Spring MVC
  - Ajax
  - Javascript
+ 
  
  
 		>>> Ideia ideia = new Ideia() <<<
